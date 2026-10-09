@@ -1,0 +1,11 @@
+# VS Code local configuration
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# JetBrains IDEs
+.idea/
